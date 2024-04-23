@@ -1,5 +1,4 @@
---Group 9: MID TERM Test - CSDL_ITS302D01
-/* Members:
+/* 
 Github: github.com/anphongdoa5
 */
 
