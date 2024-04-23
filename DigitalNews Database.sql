@@ -1,9 +1,5 @@
 --Group 9: MID TERM Test - CSDL_ITS302D01
 /* Members:
-Huỳnh Văn Chí An - 030239230001
-Phù Chi Bằng - 030239230019
-Phan Hoàng Phúc - 030239230190
-
 Github: github.com/anphongdoa5
 */
 
